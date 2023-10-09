@@ -62,7 +62,7 @@
     font-family: 'Arizonia', cursive;
     font-size: 30px;
 }
-@media (max-width: 800px) {
+@media (max-width: 768px) {
    .carousel-inner {
     height: 850px !important;
    }
